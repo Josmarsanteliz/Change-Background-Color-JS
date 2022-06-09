@@ -1,0 +1,18 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#btn {
+    padding: 0.25rem 0.5rem;
+    border: 3px solid #fefefe;
+    color: #fefefe;
+    background-color: rgb(2, 2, 2);
+    border-radius: 7px;
+    font-size: 0.85rem;
+    text-transform: capitalize;
+    cursor: pointer;
+    outline: none;
+}
